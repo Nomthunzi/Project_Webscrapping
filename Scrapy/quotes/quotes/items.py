@@ -1,6 +1,4 @@
 import scrapy
 
-
-class QuotesItem(scrapy.Item):
- 
+class QuotesItem(scrapy.Item): 
     pass
