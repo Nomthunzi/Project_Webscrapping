@@ -1,7 +1,7 @@
 from selenium import webdriver
 from urllib.parse import urljoin
 
-PATH = "" #INSERT THE PATH TO CHROMEDRIVER IN THIS STRING
+PATH = ""
 ROOT_URL = 'http://quotes.toscrape.com'
 url = ROOT_URL
 data=[]
